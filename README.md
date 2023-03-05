@@ -9,9 +9,13 @@ Usa el instalador de aplicaciones de DylanDevelop para descargarlo: [Descargar](
 ## Uso
 
 **1.** Ejecuta el ```Windows Resetter```.
+
 **2.** Espera hasta que compruebe si puedes ejecutarlo.
+
 **3.** Te pedirá si quieres eliminar todos los archivos comunes.
+
 **4.** Si seleccionas Sí, el ejecutable iniciará su limpieza completa.
+
 
 ## Licencia
 
